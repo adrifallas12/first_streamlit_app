@@ -48,4 +48,4 @@ streamlit.dataframe(fruityvice_normalized)
 
 #new section to show frutyvice API response
 
-import snowflake.connector 
+import snowflake.connector
